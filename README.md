@@ -1,7 +1,7 @@
 This code was developed for "Satellite observations reveal widespread alteration of river thermal regimes by U.S. dams" (Ellis et al.)
 
 
-This repository is divided into the follwoing folders: 
+This repository is divided into the following folders: 
 
 0_Selecting_Rivers -- This R code is used to identify river reaches up- and downstreams of obstructions and calculate thier distances from the dams.
 
