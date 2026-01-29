@@ -9,7 +9,7 @@ This repository is divided into the following folders:
 
 2_Snap_Points_to_Centerlines -- This python code is used to join the temperature outputs to river centerlines. 
 
-3_Accuracy_Assessment -- This python code is used to assess the intra-image accuracy of Landsat river surface temperature estimates.
+3_Accuracy_Assessment -- This python code is used to assess the intra-image and absolute accuracy of Landsat river surface temperature estimates.
 
 4_River_Temperature_Analysis -- This python code is used to perform the analysis of temperature data and create base images for the graphics. 
 
