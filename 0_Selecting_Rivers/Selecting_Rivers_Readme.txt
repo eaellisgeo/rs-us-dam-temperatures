@@ -1,6 +1,7 @@
-To begin this project, dams from the GROD database (1) were selected in ArcGIS. The database was filtered to the Lock and Dam types. Then the dams were selected based on their proximity to SWORD rivers(2) greater than 100m in width. 
-
-Selected GROD dams were then spatially joined with the HILARRI database(3) to include hydropower information. Additionally, the dam selection was visually assessed before proceeding. 
+To begin this project, dams from the GROD database (1) were selected in ArcGIS. The database was filtered to the Lock and Dam types. 
+Then the dams were selected based on their proximity to SWORD rivers(2) greater than 100m in width. 
+Selected GROD dams were then spatially joined with the HILARRI database(3) to include hydropower information. 
+Additionally, the dam selection was visually assessed before proceeding. 
 
 
 The final shapefile of dams used as a base can be found in the CSVs_SHPs folder as: Study_Dams.shp
@@ -19,6 +20,8 @@ Citations:
 
 -------------------------------
 
-The purpose of this code is to find each of the study dam's nearest river reach and then select the adjacent up and downstream reaches. Once these have been selected, it will calculate the linear referencing (distance upstream (-) or downstream (+) relative to the dam). The output of this code was then manually assessed to remove spurious branches and to create a single continuous path upstream from the dam.
+The purpose of this code is to find each of the study dam's nearest river reach and then select the adjacent up and downstream reaches. 
+Once these have been selected, it will calculate the linear referencing (distance upstream (-) or downstream (+) relative to the dam). 
+The output of this code was then manually assessed to remove spurious branches and to create a single continuous path upstream from the dam.
 
 The final cleaned output is used to extract temperatures from GEE in the remaining python notebooks. 
