@@ -29,7 +29,7 @@ Calculate Descriptive Stats for Profiles: Gets the profile count, direction of c
 Calculate Deviations: Three types of deviations (difference between the temperature measurement and the mean). Gets the mean deviation by waterbody category. Plots them. 
 When normalizing by profile average, also tests for significant differences with a traditional Kruskal-Wallis. 
 
-Calculate the Average Difference with Distance: Averages all by 1km bins. Plots. Calculates the slopes and significance. 
+Calculate the Average Difference with Distance: Plot downstream differences (mean and 95% confidence interval envelope) by 1km bins. Calculates difference ranges, slopes, and significance. 
 
 File also has some base info for examples and graphics. Some basic descriptive statistics of the profiles. 
 This also includes average difference breakdowns by the dam type.
