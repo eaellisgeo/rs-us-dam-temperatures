@@ -19,3 +19,4 @@ Files Included:
 
 8. Dam_Reservoir_Check -- Excel file of the dams with significant downstream differences that needed to be manually assessed for the presence of a reservoir. Completed in ArcGIS using imagery, NID, and SWORD nodes 
 
+9. Study_Dams_n287 -- Shapefile of the final 287 dams identified and used in the analysis.
