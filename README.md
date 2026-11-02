@@ -1,4 +1,4 @@
-This code was developed for "Satellite observations reveal widespread alteration of river thermal regimes by U.S. dams" (Ellis et al.)
+This code was developed for "Satellite observations reveal widespread alteration of river thermal regimes by U.S. dams" (Ellis et al. 2026; DOI: 10.1126/sciadv.aeb5193 )
 
 
 This repository is divided into the following folders: 
